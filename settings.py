@@ -13,7 +13,7 @@ class Settings():
         self.bullet_speed_factor = 1
         self.bullet_width = 3
         self.bullet_height = 15
-        self.bullet_color = 255, 255, 2
+        self.bullet_color = 255, 0, 0
 
 
         # Configuração da espaçonave
