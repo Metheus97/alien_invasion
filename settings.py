@@ -9,5 +9,12 @@ class Settings():
         self.screen_height = 680
         self.bg_color = (255, 255, 255)
 
+        #Configurações dos projéteis
+        self.bullet_speed_factor = 1
+        self.bullet_width = 3
+        self.bullet_height = 15
+        self.bullet_color = 255, 255, 2
+
+
         # Configuração da espaçonave
         self.ship_speed_factor = 1.5
